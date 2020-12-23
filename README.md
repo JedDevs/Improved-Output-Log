@@ -9,4 +9,4 @@ One of the Major bugbears i’ve come to live with working on large projects are
     Supports warn() & print().
 
 In action this module looks like:
-[](https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/4/a/1/4a1891336ebaaa0f3dd0dff71b9cf512dc4acec1.gif)
+![Example GIF](https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/4/a/1/4a1891336ebaaa0f3dd0dff71b9cf512dc4acec1.gif)
