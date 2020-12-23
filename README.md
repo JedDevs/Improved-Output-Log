@@ -6,7 +6,7 @@ One of the Major bugbears i’ve come to live with working on large projects are
     Converts all print and warn statements to use the same formatting.
     Adds the system name (script name)/custom name + environment (client/server) to output.
     Customizable output template.
-    Supports warn() & print().
+    Supports warn(), print() and error().
 
 In action this module looks like:
 ![Example GIF](https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/4/a/1/4a1891336ebaaa0f3dd0dff71b9cf512dc4acec1.gif)
